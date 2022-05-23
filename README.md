@@ -1,7 +1,7 @@
 # 💫About Me :
-Passionate android developer
-Continuous learner
-Loves music 
+🔭-Passionate android developer
+🌱-Continuous learner
+🤘-Loves music 
 
 
 ## 🌐Socials
